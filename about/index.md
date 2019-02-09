@@ -8,4 +8,4 @@ The Footlight is a 21+ establishment after 8PM. We do hold children's and all ag
 
 Follow us on social media [@thefootlightbar on Facebook](https://www.facebook.com/thefootlightbar), [Instagram](https://instagram.com/thefootlightbar), and [Twitter](https://twitter.com/thefootlightbar) for more frequent updates! 
 
-[Contact us](/contact/) via email to schedule a booking for your band or project.
+[Contact us]({{ "/contact/" | relative_url }}) via email to schedule a booking for your band or project.
