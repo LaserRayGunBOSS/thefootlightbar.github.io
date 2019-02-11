@@ -312,6 +312,10 @@ header {
 #events-wrapper .h-event li:not(.event-image) {
     margin-left: 35%;
 }
+#events-wrapper .h-event .p-description li {
+    list-style-type: disc;
+    margin-left: 40px;
+}
 #events-wrapper .p-summary {
     text-transform: uppercase;
     margin: .5em 0;
