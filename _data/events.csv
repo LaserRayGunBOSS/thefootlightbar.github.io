@@ -1,27 +1,9 @@
 Calendar,Summary,Start_Date,Start_Time,End_Date,End_Time,UTC_Offset,Recurrence,Recurrence_Interval,Recurrence_Count,Location,Description,Image,Status,URL,Categories
-Back Stage,"Weekends, Chiffon, ACREA",2019-03-14,20:00:00,2019-03-15,0:00:00,,,,,,"Weekends, Chiffon, ACREA
+Back Stage,Shift-CTRL Space's I/O: Server Setup Walkthrough Using CentOS and the Network File System,2019-03-17,14:30:00,2019-03-17,18:00:00,,,,,,"The Community Enterprise Operating System (CentOS) is a free distribution of the GNU/Linux operating system used by large corporations all over the world. It is known for its stability and extended periods of software support, making it a leading choice for commercial and non-profit organizations of any size. It also features strong security controls, shipping with the Security-Enhanced Linux (SELinux) kernel security module enabled by default. 
 
+At this week's I/O, we will walk through a complete example scenario in which a small business needs to deploy their first Information Technology (IT) system in-house. Using the CentOS distribution, we will demonstrate how a single system administrator can provision and deploy the Network File System (NFS) running on one (server) machine in order to offer a “cloud computing” environment where multiple connected devices (clients) can read and write files within a corporate or organizational intranet. To securely deploy such a solution, we will also walk through the proper configuration of the built-in Linux network firewall using the firewalld management utility, a minimal Secure Shell (SSH) setup for remote administration, and how to ensure only the users who need access privileges are granted such access. 
 
-Doors at 8. $10.",https://thefootlightbar.github.io/static/images/Screenshot_20190305-165451.jpg,CONFIRMED,https://www.facebook.com/events/2305687783052869/,
-Back Stage,"Plaid Dracula, QWAM, Smock",2019-03-15,21:00:00,2019-03-16,1:00:00,,,,,,"Plaid Dracula, QWAM, Smock
-
-
-Doors at 9. $10",https://thefootlightbar.github.io/static/images/52401115_884613005042402_853711886376501248_o.jpg,CONFIRMED,https://www.facebook.com/events/2063355653778260/,
-Back Stage,Harry Potter & All that Jazz ,2019-03-16,19:00:00,2019-03-16,21:00:00,,,,,,"Doors: 7:00pm
-Show: 7:30pm
-Proceeds will go to the ALCU <3
-Come see New York's best stand up comedians and exactly One musical number. We have an incredible line up and some very specific Harry Potter references! Ticket Sales will be donated to the ACLU!
-
-Hosted By local Jocks Hilton Dresden and Talia Heller♥ 
-
-Featuring: 
-Alise Morales (Roast of Your 15 Year Old Self, Betches)
-Fareeha Khan (OutCast, The 'Sup Show)
-Nataly Aukar (Tickling the Ivories, Gad El Maleh's Dream Tour)
-Marty Miller (Sharon Stretch, Cabernet Cabaret)",https://thefootlightbar.github.io/static/images/harry%20potter%20and%20all%20that%20jazz.pdf,CONFIRMED,,
-Back Stage,"Baked, Lost Boy ?, The Zells, BBGuns",2019-03-16,21:00:00,2019-03-17,1:00:00,,,,,,"Baked, Lost Boy?, The Zells, BBGuns
-
-Doors at 9. $10",https://thefootlightbar.github.io/static/images/52703757_1723462697789111_1874903093292826624_o.jpg,CONFIRMED,https://www.facebook.com/events/565136830563545/,
+This event is: Individuals/Organizations.",https://shiftctrl.space/img/logo.bw.svg,CONFIRMED,https://shiftctrl.space/#io-calendar,
 Back Stage,"Fuck You, Tammy!, A Place Both Wonderful & Strange, Romantic Thriller, Clapperclaw",2019-03-17,20:00:00,2019-03-18,0:00:00,,,,,,"Fuck You, Tammy!, A Place Both Wonderful &amp; Strange, Romantic Thriller, Clapperclaw
 
 
@@ -69,7 +51,7 @@ Raghav Mehta (Bridgetown Comedy Festival)
 
 
 Reserve Tickets:  https://www.eventbrite.com/e/sweetie-pies-comedy-stand-up-at-the-footlight-tickets-57350986344",https://thefootlightbar.github.io/static/images/Sweetie%20Pie%20March%2019th%20vista%20print.png,CONFIRMED,https://www.eventbrite.com/e/sweetie-pies-comedy-stand-up-at-the-footlight-tickets-57350986344,
-Back Stage,Midriff Comedy,2019-03-19,21:00:00,2019-03-19,23:00:00,,,,,,,https://thefootlightbar.github.io/static/images/TUES%20place%20holder.jpg,CONFIRMED,,
+Back Stage,Midriff Comedy,2019-03-19,21:00:00,2019-03-19,23:00:00,,,,,,,https://thefootlightbar.github.io/static/images/midrifflast.JPEG,CONFIRMED,,
 Back Stage,"Randy's Got A Playdough Face, Fire On TV, Goodnight Ghost, TBA",2019-03-20,20:00:00,2019-03-21,0:00:00,,,,,,"Randy's Got A Playdough Face, Fire On TV, Goodnight Ghost, TBA
 
 
@@ -200,7 +182,7 @@ Back Stage,"DJ MOJO PRESENTS: Haunted Horses NYC, Um, Rocket Silence, TBA",2019-
 Doors at 9. $10",https://thefootlightbar.github.io/static/images/web%20only%20HHNYC%20FOOTLIGHT%20APRIL%202019.jpg,CONFIRMED,,
 Back Stage,"Broken Field Runner, Trochee Trochee, Jury Duty, Winter Ring",2019-04-06,21:00:00,2019-04-07,1:00:00,,,,,,"Broken Field Runner, Trochee Trochee, Jury Duty, Winter Ring
 
-Doors at 9. $10",,CONFIRMED,https://www.facebook.com/events/2355194398034286/,
+Doors at 9. $10",https://thefootlightbar.github.io/static/images/IMG_0664.jpg,CONFIRMED,https://www.facebook.com/events/2355194398034286/,
 Back Stage,S.O.S. Stories on the Side,2019-04-08,18:00:00,2019-04-08,20:00:00,,,,,,"S.O.S. Stories on the Side
 A Service Industry Story Telling Series 
 
@@ -281,10 +263,10 @@ Free to sign up!
 Sponsored by SIXPOINT 
 
 $5 Sixpoint Dabble IPA & $5 Well drinks all night",https://thefootlightbar.github.io/static/images/SOS.jpg,CONFIRMED,,
-Back Stage,Whose Mike is it Anyway?,2019-4-22,20:30:00,2019-04-22,23:00:00,,,,,,"Open Mic every Monday 8:30 Sign up 
+Back Stage,Whose Mike is it Anyway?,2019-04-22,20:30:00,2019-04-22,23:00:00,,,,,,"Open Mic every Monday 8:30 Sign up 
 FREE to enter",https://thefootlightbar.github.io/static/images/WHOSE%20mike%20is%20it%20Anyway-8.jpg,CONFIRMED,https://withfriends.co/event/1238094/whose_mike_is_it_anyway_industry_night_karaoke,
 Back Stage,Le Noize Karaoke,2019-04-22,23:00:00,2019-04-23,2:00:00,,,,,,,,CONFIRMED,,
-Back Stage,"Ishmael, Husbandry, Srimmerman, Tiny Gun",2019-04-27,21:00:00,2019-04-28,1:00:00,,,,,,"Ishmael, Husbandry, Srimmerman, Tiny Gun
+Back Stage,"Ishmael, Husbandry, Srimmerman, Tiny Gun",2019-4-27,21:00:00,2019-04-28,1:00:00,,,,,,"Ishmael, Husbandry, Srimmerman, Tiny Gun
 
 
 Doors at 9. $10",,CONFIRMED,,
@@ -307,17 +289,21 @@ Free to sign up!
 Sponsored by SIXPOINT 
 
 $5 Sixpoint Dabble IPA & $5 Well drinks all night",https://thefootlightbar.github.io/static/images/SOS.jpg,CONFIRMED,,
-Back Stage,Whose Mike is it Anyway?,2019-05-06,20:30:00,2019-5-6,23:00:00,,,,,,"Open Mic every Monday 8:30 Sign up 
+Back Stage,Whose Mike is it Anyway?,2019-05-06,20:30:00,2019-05-06,23:00:00,,,,,,"Open Mic every Monday 8:30 Sign up 
 FREE to enter",https://thefootlightbar.github.io/static/images/WHOSE%20mike%20is%20it%20Anyway-8.jpg,CONFIRMED,https://withfriends.co/event/1238094/whose_mike_is_it_anyway_industry_night_karaoke,
 Back Stage,Le Noize Karaoke,2019-05-06,23:00:00,2019-05-07,2:00:00,,,,,,,,CONFIRMED,,
+Back Stage,"Glen Echo, Twin Village, Caroline Kuhn",2019-05-08,20:00:00,2019-5-9,0:00:00,,,,,,"Glen Echo, Twin Village, Caroline Kuhn
+
+
+Doors at 8. $10. 21+",,CONFIRMED,,
 Back Stage,"Somnuri, Lighteater, False Gods, Mantismass, Sabba",2019-05-11,21:00:00,2019-05-12,1:00:00,,,,,,"Somnuri, Lighteater, False Gods, Mantismass, Sabba
 
 
 Doors at 9. $10",,CONFIRMED,,
 Back Stage,Whose Mike is it Anyway?,2019-05-13,20:30:00,2019-05-13,23:00:00,,,,,,"Open Mic every Monday 8:30 Sign up 
 FREE to enter",https://thefootlightbar.github.io/static/images/WHOSE%20mike%20is%20it%20Anyway-8.jpg,CONFIRMED,https://withfriends.co/event/1238094/whose_mike_is_it_anyway_industry_night_karaoke,
-Back Stage,Le Noize Karaoke,2019-5-13,23:00:00,2019-05-14,2:00:00,,,,,,,,CONFIRMED,,
-Back Stage,S.O.S. Stories on the Side,2019-05-20,18:00:00,2019-05-20,20:00:00,,,,,,"S.O.S. Stories on the Side
+Back Stage,Le Noize Karaoke,2019-05-13,23:00:00,2019-05-14,2:00:00,,,,,,,,CONFIRMED,,
+Back Stage,S.O.S. Stories on the Side,2019-5-20,18:00:00,2019-05-20,20:00:00,,,,,,"S.O.S. Stories on the Side
 A Service Industry Story Telling Series 
 
 
@@ -330,7 +316,7 @@ Free to sign up!
 Sponsored by SIXPOINT 
 
 $5 Sixpoint Dabble IPA & $5 Well drinks all night",https://thefootlightbar.github.io/static/images/SOS.jpg,CONFIRMED,,
-Back Stage,Whose Mike is it Anyway?,2019-05-20,20:30:00,2019-05-20,23:00:00,,,,,,"Open Mic every Monday 8:30 Sign up 
+Back Stage,Whose Mike is it Anyway?,2019-05-20,20:30:00,2019-5-20,23:00:00,,,,,,"Open Mic every Monday 8:30 Sign up 
 FREE to enter",https://thefootlightbar.github.io/static/images/WHOSE%20mike%20is%20it%20Anyway-8.jpg,CONFIRMED,https://withfriends.co/event/1238094/whose_mike_is_it_anyway_industry_night_karaoke,
 Back Stage,Le Noize Karaoke,2019-05-20,23:00:00,2019-05-21,2:00:00,,,,,,,,CONFIRMED,,
 Back Stage,Whose Mike is it Anyway?,2019-05-27,20:30:00,2019-05-27,23:00:00,,,,,,"Open Mic every Monday 8:30 Sign up 
