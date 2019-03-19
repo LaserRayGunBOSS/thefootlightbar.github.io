@@ -14,7 +14,8 @@ layout: default
 {% endif %}
 
 {% assign posts = site.posts | where: "featured", true %}
-{% if posts.length %}
+{% assign num_posts = posts | size %}
+{% if 0 < num_posts %}
 <section id="featured-posts">
     <h1>Featured</h1>
     <ol>{% for post in posts %}
@@ -25,8 +26,11 @@ layout: default
 </section>
 {% endif %}
 
-{% assign posts = site.posts | where: "featured", false %}
-{% if posts.length %}
+{% assign posts_featured_true = site.posts | where: "featured", false %}
+{% assign posts_featured_nils = site.posts | where_exp: "post", "post.featured == nil" %}
+{% assign posts = posts_featured_true | concat: posts_featured_nils | sort: "date" | reverse %}
+{% assign num_posts = posts | size %}
+{% if 0 < num_posts %}
 <section id="blog-posts">
     <h1>Blog</h1>
     <ol>{% for post in posts %}

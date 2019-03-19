@@ -2,7 +2,8 @@
 title: Blog
 ---
 
-{% if posts.length %}
+{% assign num_posts = site.posts | size %}
+{% if 0 < num_posts  %}
 <ol class="posts-wrapper">{% for post in paginator.posts %}<li>
     {% include h-entry.html entry=post excerpt_only=true %}
 </li>{% endfor %}</ol>
