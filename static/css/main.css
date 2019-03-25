@@ -39,6 +39,9 @@ nav ul,
 #MainContent {
     padding-top: 35px;
 }
+#featured-events {
+    padding: 0 20px;
+}
 #PageWrapper {
     max-width: 90%;
     margin: 0 auto;
@@ -47,6 +50,7 @@ nav ul,
 #MainFooter {
     padding-top: 50px;
     padding-bottom: 50px;
+    clear: both;
 }
 .TwoUp {
     display: grid;

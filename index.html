@@ -13,11 +13,23 @@ layout: default
 </section>
 {% endif %}
 
+{% assign events = site.data.events | where_exp: "event", "event.Summary contains 'FEATURED: '" %}
+{% assign num_events = events | size %}
+{% if 0 < num_events %}
+<section id="featured-events">
+    <h1>Featured Events</h1>
+    <p>(<a href="{{ "/events/" | relative_url }}" title="View all events at {{ site.title }}">view all events</a>)</p>
+    <ul id="events-wrapper">{% for event in events %}
+        <li>{% include h-event.html event=event %}</li>
+    {% endfor %}</ul>
+</section>
+{% endif %}
+
 {% assign posts = site.posts | where: "featured", true %}
 {% assign num_posts = posts | size %}
 {% if 0 < num_posts %}
 <section id="featured-posts">
-    <h1>Featured</h1>
+    <h1>Featured Blog Posts</h1>
     <ol>{% for post in posts %}
     <li>
         {% include h-entry.html entry=post excerpt_only=true %}

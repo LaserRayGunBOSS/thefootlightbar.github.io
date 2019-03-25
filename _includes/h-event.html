@@ -52,7 +52,7 @@
                 <img src="{{ event.Image | default: placeholder_image }}" alt="" />
             </li>
             <li class="p-summary summary p-name">
-                {{ event.Summary }}
+                {{ event.Summary | replace: "FEATURED: ", "" | strip }}
             </li>
             <li class="p-location location">
                 {% assign location = event.Location | default: site.iCalendar.defaults.location | split: "," %}
