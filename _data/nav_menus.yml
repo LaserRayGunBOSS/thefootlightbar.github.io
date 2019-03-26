@@ -1,11 +1,11 @@
 main:
-  - 
-    url: /rentals/
-    text: Rentals
   -
     url: /about/
     text: About
     title_text: Learn more about us!
+  -
+    url: /gallery/
+    text: Gallery
   -
     url: /blog/
     text: Blog
@@ -13,9 +13,9 @@ main:
     url: /
     text: Home
     image: logo.thefootlightbar.transparent.1110x1370.png
-  -
-    url: /gallery/
-    text: Gallery
+  - 
+    url: /rentals/
+    text: Rentals
   -
     url: /art/
     text: Art
