@@ -2,10 +2,28 @@
 title: About
 ---
 
-Ridgewood is a classic New York neighborhood in Queens with deep roots, filled with historic row houses, locally owned and operated small businesses, some that go back generations. The Footlight intends to blend old with new and is prepared to accommodate all genres of music with a custom installed sound system, quality sound engineers and a high quality back line. The bar strives to be a neighborhood friendly hot spot known for its inviting atmosphere and charming, knowledgeable staff. The mission of the creative individuals who operate this venue is to create a unique environment to inspire the community, as well as our staff, to take part in creative endeavors and continue to return for fun and engaging experiences. In every genre, including film, music, theater and comedy, we will continue to grow and evolve to meet community demands and support local artists with our diverse offerings of artistic and cultural experiences.
+The Footlight Bar is a quirky neighborhood bar, art space and music venue in historic Ridgewood, Queens nestled just north or the notorious L train and a few blocks away from the shiny new to you M train. Footlight is the brainchild of Laura Bridget Regan, native of Boston, Ma, Ridgewood resident since 2013. The bar and venue are run with care and compassion by a group of reliable talented friends and family. When you come to Footlight you should feel like part of the crew, marvel at our amazing sound system, absorb the eclectic, bizzare art and decor, and experience something you haven't before. 
 
-The Footlight is a 21+ establishment after 8PM. We do hold children's and all ages matinee events on occasion. We host a children's play group every Friday between 1&ndash;4PM as well as fitness classes Wednesday and Saturday including Yoga and Pound Fitness hosted by certified instructors. 
+The Footlight is a 21+ establishment after 8PM. We do hold children's and all ages matinee events on Saturday afternnons. We host a parent/caregiver meet up every Friday between 2:30-5:30PM seasonally October- May as well as occasional fitness classes, Zine fests, flea markets & more.  
 
 Follow us on social media [@thefootlightbar on Facebook](https://www.facebook.com/thefootlightbar), [Instagram](https://instagram.com/thefootlightbar), and [Twitter](https://twitter.com/thefootlightbar) for more frequent updates! 
 
-[Contact us]({{ "/contact/" | relative_url }}) via email to schedule a booking for your band or project.
+For all music booking email Eric at [footlightbooking@gmail.com](mailto:footlightbooking@gmail.com?subject=Music%20booking%20inquiry&body=Hi%2C%20we%20are%20YOUR%20NAME.%20Here%20are%20some%20links%20to%20our%20music%20samples
+). Please include links to music and recent venues in NYC where your project has performed.
+
+All other requests and inquiries including comedy, film, fundraising/benefit events, rentals, theater performances or screenings can be sent to Laura at [footlightbar@gmail.com](mailto:footlightbar@gmail.com).
+
+# Backline list for The Footlight:
+
+Our back line is:
+
+* 1 Fender Hotrod Deluxe
+* 1 Fender Hotrod DeVille
+* 1 Behringer guitar cab
+* an Acoustic B100 combo bass amp
+* a 4x10 ampeg bass cab with an Ampeg SVT 200T 350W head
+* Fender Keyboard amp & a Mapex Pro Series drum kit with hardware and throne.
+
+Drummers must bring snare, cymbals and kick pedal. We also have two keyboard stands available as well as an upright piano on the stage for use.
+
+Please be respectful of our space and the gear provided for use.
